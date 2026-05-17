@@ -1,0 +1,124 @@
+1:"$Sreact.fragment"
+2:I[10536,["/_next/static/chunks/0_ijson-k~qrg.js","/_next/static/chunks/0wbzwy2rjw5me.js"],"YandexMetrika"]
+3:I[98425,["/_next/static/chunks/0_ijson-k~qrg.js","/_next/static/chunks/0wbzwy2rjw5me.js"],"default"]
+4:I[84635,["/_next/static/chunks/0_ijson-k~qrg.js","/_next/static/chunks/0wbzwy2rjw5me.js"],"default"]
+c:I[57531,["/_next/static/chunks/0_ijson-k~qrg.js","/_next/static/chunks/0wbzwy2rjw5me.js"],"default",1]
+:HL["/_next/static/chunks/09fl7cdb2_9.c.css","style"]
+:HL["/_next/static/media/GeistMonoVF-s.p.0ifhplp~93ddj.woff","font",{"crossOrigin":"","type":"font/woff"}]
+:HL["/_next/static/media/GeistVF-s.p.04dvp7dj03si8.woff","font",{"crossOrigin":"","type":"font/woff"}]
+5:T820,
+        .legal-footer {
+          padding: 2.75rem 1rem;
+        }
+
+        .legal-footer__inner {
+          display: grid;
+          gap: 2rem;
+          max-width: 72rem;
+          margin: 0 auto;
+        }
+
+        .legal-footer__title {
+          color: var(--foreground);
+          font-size: 1rem;
+          font-weight: 650;
+          line-height: 1.5;
+        }
+
+        .legal-footer__text {
+          max-width: 28rem;
+          margin-top: 0.75rem;
+          line-height: 1.65;
+        }
+
+        .legal-footer__meta {
+          margin-top: 1.25rem;
+          font-size: 0.75rem;
+          line-height: 1.5;
+        }
+
+        .legal-footer__label {
+          color: var(--foreground);
+          font-size: 0.75rem;
+          font-weight: 700;
+          letter-spacing: 0.08em;
+          line-height: 1.4;
+          text-transform: uppercase;
+        }
+
+        .legal-footer__links {
+          display: flex;
+          flex-direction: column;
+          align-items: flex-start;
+          gap: 0.7rem;
+          margin-top: 1rem;
+        }
+
+        .legal-footer__link {
+          color: inherit;
+          line-height: 1.45;
+          text-decoration: none;
+          transition: color 160ms ease;
+        }
+
+        .legal-footer__link:hover {
+          color: var(--foreground);
+        }
+
+        .legal-footer__seller {
+          margin-top: 1rem;
+          line-height: 1.65;
+        }
+
+        .legal-footer__requisites {
+          display: inline-flex;
+          margin-top: 0.8rem;
+          color: var(--foreground);
+          font-weight: 600;
+          text-decoration: underline;
+          text-underline-offset: 4px;
+          transition: color 160ms ease;
+        }
+
+        .legal-footer__requisites:hover {
+          color: var(--muted-foreground);
+        }
+
+        @media (min-width: 768px) {
+          .legal-footer {
+            padding: 3.25rem 1.5rem;
+          }
+
+          .legal-footer__inner {
+            grid-template-columns: minmax(0, 1.35fr) minmax(0, 0.9fr) minmax(0, 1fr);
+            align-items: start;
+          }
+        }
+      0:{"P":null,"c":["","legal","offer",""],"q":"","i":false,"f":[[["",{"children":["legal",{"children":["offer",{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/09fl7cdb2_9.c.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0_ijson-k~qrg.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0wbzwy2rjw5me.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"className":"geistsans_d025f23b-module__btTCTG__variable geistmono_df95d851-module__CWPfka__variable min-h-dvh","children":[["$","$L2",null,{}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"legal-footer border-t border-border bg-background text-sm text-muted-foreground ","children":[["$","style",null,{"children":"$5"}],"$L6"]}]]}]}]]}],{"children":["$L7",{"children":["$L8",{"children":["$L9",{},null,false,null]},null,false,"$@a"]},null,false,"$@a"]},null,false,null],"$Lb",false]],"m":"$undefined","G":["$c",["$Ld"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"RW8hOhac6cJbdOJ9MrkIf"}
+e:I[20626,["/_next/static/chunks/0_ijson-k~qrg.js","/_next/static/chunks/0wbzwy2rjw5me.js","/_next/static/chunks/0.ukcha5vnf-5.js"],"Header"]
+f:I[50303,["/_next/static/chunks/0_ijson-k~qrg.js","/_next/static/chunks/0wbzwy2rjw5me.js","/_next/static/chunks/0.ukcha5vnf-5.js"],"ProtectedSellerDetails"]
+1a:I[38120,["/_next/static/chunks/0_ijson-k~qrg.js","/_next/static/chunks/0wbzwy2rjw5me.js"],"ViewportBoundary"]
+1c:I[38120,["/_next/static/chunks/0_ijson-k~qrg.js","/_next/static/chunks/0wbzwy2rjw5me.js"],"MetadataBoundary"]
+1d:"$Sreact.suspense"
+6:["$","div",null,{"className":"legal-footer__inner","children":[["$","div",null,{"children":[["$","p",null,{"className":"legal-footer__title","children":"Accentra"}],["$","p",null,{"className":"legal-footer__text","children":"Цифровые товары с онлайн-оплатой и выдачей доступа после покупки."}],["$","p",null,{"className":"legal-footer__meta","children":["© ",2026," ","Accentra"]}]]}],["$","nav",null,{"aria-label":"Юридические документы","children":[["$","p",null,{"className":"legal-footer__label","children":"Документы"}],["$","div",null,{"className":"legal-footer__links","children":[["$","a","/legal/offer/",{"href":"https://accentra.ru/legal/offer/","target":"$undefined","rel":"$undefined","className":"legal-footer__link","children":"Публичная оферта"}],["$","a","/legal/privacy/",{"href":"https://accentra.ru/legal/privacy/","target":"$undefined","rel":"$undefined","className":"legal-footer__link","children":"Политика персональных данных"}],["$","a","/legal/personal-data-consent/",{"href":"https://accentra.ru/legal/personal-data-consent/","target":"$undefined","rel":"$undefined","className":"legal-footer__link","children":"Согласие на обработку ПД"}]]}]]}],["$","div",null,{"children":[["$","p",null,{"className":"legal-footer__label","children":"Продавец"}],["$","p",null,{"className":"legal-footer__seller","children":"Физическое лицо, плательщик налога на профессиональный доход."}],["$","a",null,{"href":"https://accentra.ru/contacts/","target":"$undefined","rel":"$undefined","className":"legal-footer__requisites","children":"Открыть реквизиты"}]]}]]}]
+7:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+8:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+9:["$","$1","c",{"children":[["$","div",null,{"className":"min-h-dvh bg-background","children":[["$","$Le",null,{}],["$","main",null,{"className":"mx-auto max-w-4xl px-4 py-12 sm:px-6 sm:py-16","children":[["$","header",null,{"className":"border-b border-border pb-8","children":[["$","p",null,{"className":"text-sm font-medium text-muted-foreground","children":"Юридическая информация"}],["$","h1",null,{"className":"mt-3 text-3xl font-semibold tracking-normal text-foreground sm:text-4xl","children":"Публичная оферта"}],["$","p",null,{"className":"mt-4 max-w-3xl text-base leading-7 text-muted-foreground","children":"Условия продажи цифровых товаров на сайте Accentra."}]]}],["$","article",null,{"className":"legal-document mt-8 space-y-8 text-base leading-7 text-muted-foreground","children":[["$","section",null,{"children":[["$","h2",null,{"children":"1. Продавец и покупатель"}],["$","p",null,{"children":["Продавец: ","физическое лицо, плательщик налога на профессиональный доход",". Сайт продавца: ","https://accentra.ru",". Конкретные реквизиты продавца доступны покупателю до оплаты по кнопке ниже. Покупатель: физическое лицо, которое оформляет заказ на сайте, через DigiSeller/oplata.info или связанную платежную форму."]}],["$","$Lf",null,{}],["$","p",null,{"children":"Оформляя заказ, нажимая кнопку покупки или оплачивая цифровой товар, покупатель принимает условия этой оферты, подтверждает корректность указанных данных и просит предоставить цифровой товар сразу после подтверждения оплаты. Договор считается заключенным с момента акцепта оферты покупателем."}]]}],["$","section",null,{"children":[["$","h2",null,{"children":"2. Товары"}],["$","p",null,{"children":"На сайте продаются цифровые товары: файлы, ссылки, инструкции, шаблоны, гайды, уроки, вебинары, приложения и иные материалы в цифровом формате. Товар не является физическим носителем."}],["$","p",null,{"children":"Карточка конкретного товара является неотъемлемой частью этой оферты. В карточке могут указываться название, описание, цена, формат, состав файлов и материалов, способ предоставления доступа, срок доступа, наличие или отсутствие обновлений, консультаций, обратной связи и технические требования. Если поддержка, обновления или конкретный результат прямо не указаны в карточке товара или платежной форме, они не входят в состав товара."}],["$","p",null,{"children":"Покупатель самостоятельно проверяет соответствие товара своим целям, устройствам, программной среде и ограничениям аккаунтов до оплаты. Несовместимость, не связанная с недостоверным описанием товара, не является недостатком товара."}]]}],["$","section",null,{"children":[["$","h2",null,{"children":"3. Цена и оплата"}],["$","p",null,{"children":"Цена товара указывается на сайте в рублях, если в карточке товара или платежной форме не указана другая валюта. Оплата проводится через DigiSeller/oplata.info, платежную форму, агрегатор или иной подключенный способ оплаты. Обязанность покупателя по оплате считается исполненной после подтверждения успешного платежа платежным сервисом."}],["$","p",null,{"children":"Данные банковской карты и платежные реквизиты обрабатываются платежным сервисом. Продавец получает сведения, необходимые для исполнения заказа: факт оплаты, сумму, идентификатор платежа, состав заказа и контактные данные, переданные покупателем."}],["$","p",null,{"children":"Продавец применяет специальный налоговый режим «Налог на профессиональный доход». После оплаты продавец формирует чек в установленном порядке и передает его покупателю электронным способом, если это предусмотрено выбранным способом оплаты, правилами платежного сервиса или обязательными требованиями закона."}],"$L10"]}],"$L11","$L12","$L13","$L14","$L15","$L16"]}]]}]]}],["$L17"],"$L18"]}]
+19:[]
+a:"$W19"
+b:["$","$1","h",{"children":[null,["$","$L1a",null,{"children":"$L1b"}],["$","div",null,{"hidden":true,"children":["$","$L1c",null,{"children":["$","$1d",null,{"name":"Next.Metadata","children":"$L1e"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/09fl7cdb2_9.c.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+1f:I[38120,["/_next/static/chunks/0_ijson-k~qrg.js","/_next/static/chunks/0wbzwy2rjw5me.js"],"OutletBoundary"]
+10:["$","p",null,{"children":"Продавец может изменять цены и ассортимент. Изменения не влияют на уже оплаченные заказы."}]
+11:["$","section",null,{"children":[["$","h2",null,{"children":"4. Передача цифрового товара"}],["$","p",null,{"children":"Цифровой товар передается автоматически после успешной оплаты, но в любом случае не позднее 24 часов с момента подтверждения оплаты платежным сервисом, если в карточке товара не указан более короткий срок. Передача может выполняться через ссылку на странице успешной оплаты, email, личный кабинет DigiSeller/oplata.info, файловое хранилище или другой способ, указанный при оформлении заказа."}],["$","p",null,{"children":"Товар считается предоставленным в момент, когда покупателю отображена ссылка или инструкция на странице успешной оплаты, отправлено письмо на email, указанный при заказе, передан доступ через личный кабинет платежного сервиса или иным образом предоставлена возможность получить оплаченный цифровой товар."}],["$","p",null,{"children":"Покупатель обязан указать корректные контактные данные и самостоятельно проверить папки «Спам» и «Промоакции», если товар направляется по email. Продавец не отвечает за неполучение сообщения из-за ошибки в адресе, настроек почтового сервиса, переполненного ящика или ограничений на стороне покупателя, но при обращении покупателя повторно направляет данные доступа при наличии подтвержденной оплаты."}]]}]
+12:["$","section",null,{"children":[["$","h2",null,{"children":"5. Обращения по заказу"}],["$","p",null,{"children":["Обращения по оплате, выдаче товара, доступу или технической ошибке направляются на ","ngafta@yandex.ru",". В обращении нужно указать email, использованный при покупке, дату оплаты, название товара и описание ситуации."]}],["$","p",null,{"children":"Продавец проверяет обращение по данным платежного сервиса и собственным журналам выдачи. Если подтверждена ошибка на стороне продавца, продавец повторно направляет доступ, исправляет техническую проблему, предоставляет замену или применяет иной способ исполнения, достаточный для передачи оплаченного товара."}],["$","p",null,{"children":"Денежные требования рассматриваются только в случаях и порядке, предусмотренных обязательными нормами закона, правилами платежного сервиса и этой офертой. После предоставления доступа к цифровому товару надлежащего качества такие требования удовлетворяются только в пределах, допускаемых законом."}]]}]
+13:["$","section",null,{"children":[["$","h2",null,{"children":"6. Лицензия и авторские права"}],["$","p",null,{"children":"Если в карточке товара не указано иное, покупателю предоставляется простая неисключительная непередаваемая лицензия на личное использование цифрового товара без права сублицензирования."}],["$","p",null,{"children":"Покупателю запрещено перепродавать товар, публиковать его в открытом доступе, передавать третьим лицам, размещать в складчинах, загружать в облачные хранилища с публичным доступом, использовать как часть своего платного продукта, перерабатывать для коммерческого распространения или иным образом использовать материалы за пределами предоставленной лицензии без письменного согласия продавца."}],["$","p",null,{"children":"При нарушении лицензионных условий продавец вправе прекратить доступ к товару, если это технически возможно, требовать возмещения убытков и компенсации за нарушение исключительных прав, а также применять иные способы защиты."}]]}]
+14:["$","section",null,{"children":[["$","h2",null,{"children":"7. Ответственность"}],["$","p",null,{"children":"Продавец отвечает за передачу оплаченного цифрового товара и соответствие товара описанию на сайте. Продавец не несет ответственности за невозможность использования товара, вызванную неверными данными покупателя, несоответствием устройства или программной среды заранее указанным техническим требованиям, ограничениями аккаунта покупателя, интернет-провайдера, почтового сервиса или временными сбоями сторонних сервисов, если продавец разумно исполнил свои обязанности."}],["$","p",null,{"children":"Материалы информационного характера не являются индивидуальной консультацией, инвестиционной рекомендацией, юридическим, налоговым, медицинским или иным профессиональным заключением, если прямо не указано обратное."}],["$","p",null,{"children":"Товар не является гарантией заработка, экономического эффекта, игрового результата, получения прибыли или иного конкретного результата, если такая гарантия прямо не указана в карточке товара. Покупатель самостоятельно оценивает применимость материалов к своей ситуации."}],["$","p",null,{"children":"В пределах, допускаемых законом, ответственность продавца ограничена стоимостью оплаченного товара, по которому возникло обращение. Продавец не отвечает за косвенные убытки, упущенную выгоду, решения покупателя и последствия использования материалов не по назначению."}]]}]
+15:["$","section",null,{"children":[["$","h2",null,{"children":"8. Персональные данные"}],["$","p",null,{"children":"Персональные данные покупателя обрабатываются для оформления заказа, оплаты, выдачи товара, поддержки и исполнения обязательных требований закона. Подробные условия указаны в политике обработки персональных данных."}]]}]
+16:["$","section",null,{"children":[["$","h2",null,{"children":"9. Заключительные положения"}],["$","p",null,{"children":"Продавец вправе обновлять оферту. Новая редакция действует с момента публикации на сайте, если в ней не указан иной срок. К отношениям сторон применяется законодательство Российской Федерации."}],["$","p",null,{"children":["Редакция от ","13 мая 2026 года","."]}]]}]
+17:["$","script","script-0",{"src":"/_next/static/chunks/0.ukcha5vnf-5.js","async":true,"nonce":"$undefined"}]
+18:["$","$L1f",null,{"children":["$","$1d",null,{"name":"Next.MetadataOutlet","children":"$@20"}]}]
+1b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+21:I[50756,["/_next/static/chunks/0_ijson-k~qrg.js","/_next/static/chunks/0wbzwy2rjw5me.js"],"IconMark"]
+1e:[["$","title","0",{"children":"Публичная оферта — Accentra"}],["$","meta","1",{"name":"description","content":"Условия продажи цифровых товаров на сайте Accentra."}],["$","meta","2",{"name":"yandex-verification","content":"3810a843afc384e1"}],["$","link","3",{"rel":"shortcut icon","href":"/favicon.ico","type":"image/x-icon"}],["$","link","4",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"any"}],["$","link","5",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png","type":"image/png","sizes":"180x180"}],["$","$L21","6",{}]]
+20:null

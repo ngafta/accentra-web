@@ -1,0 +1,121 @@
+1:"$Sreact.fragment"
+2:I[10536,["/_next/static/chunks/0_ijson-k~qrg.js","/_next/static/chunks/0wbzwy2rjw5me.js"],"YandexMetrika"]
+3:I[98425,["/_next/static/chunks/0_ijson-k~qrg.js","/_next/static/chunks/0wbzwy2rjw5me.js"],"default"]
+4:I[84635,["/_next/static/chunks/0_ijson-k~qrg.js","/_next/static/chunks/0wbzwy2rjw5me.js"],"default"]
+b:I[57531,["/_next/static/chunks/0_ijson-k~qrg.js","/_next/static/chunks/0wbzwy2rjw5me.js"],"default",1]
+:HL["/_next/static/chunks/09fl7cdb2_9.c.css","style"]
+:HL["/_next/static/media/GeistMonoVF-s.p.0ifhplp~93ddj.woff","font",{"crossOrigin":"","type":"font/woff"}]
+:HL["/_next/static/media/GeistVF-s.p.04dvp7dj03si8.woff","font",{"crossOrigin":"","type":"font/woff"}]
+5:T820,
+        .legal-footer {
+          padding: 2.75rem 1rem;
+        }
+
+        .legal-footer__inner {
+          display: grid;
+          gap: 2rem;
+          max-width: 72rem;
+          margin: 0 auto;
+        }
+
+        .legal-footer__title {
+          color: var(--foreground);
+          font-size: 1rem;
+          font-weight: 650;
+          line-height: 1.5;
+        }
+
+        .legal-footer__text {
+          max-width: 28rem;
+          margin-top: 0.75rem;
+          line-height: 1.65;
+        }
+
+        .legal-footer__meta {
+          margin-top: 1.25rem;
+          font-size: 0.75rem;
+          line-height: 1.5;
+        }
+
+        .legal-footer__label {
+          color: var(--foreground);
+          font-size: 0.75rem;
+          font-weight: 700;
+          letter-spacing: 0.08em;
+          line-height: 1.4;
+          text-transform: uppercase;
+        }
+
+        .legal-footer__links {
+          display: flex;
+          flex-direction: column;
+          align-items: flex-start;
+          gap: 0.7rem;
+          margin-top: 1rem;
+        }
+
+        .legal-footer__link {
+          color: inherit;
+          line-height: 1.45;
+          text-decoration: none;
+          transition: color 160ms ease;
+        }
+
+        .legal-footer__link:hover {
+          color: var(--foreground);
+        }
+
+        .legal-footer__seller {
+          margin-top: 1rem;
+          line-height: 1.65;
+        }
+
+        .legal-footer__requisites {
+          display: inline-flex;
+          margin-top: 0.8rem;
+          color: var(--foreground);
+          font-weight: 600;
+          text-decoration: underline;
+          text-underline-offset: 4px;
+          transition: color 160ms ease;
+        }
+
+        .legal-footer__requisites:hover {
+          color: var(--muted-foreground);
+        }
+
+        @media (min-width: 768px) {
+          .legal-footer {
+            padding: 3.25rem 1.5rem;
+          }
+
+          .legal-footer__inner {
+            grid-template-columns: minmax(0, 1.35fr) minmax(0, 0.9fr) minmax(0, 1fr);
+            align-items: start;
+          }
+        }
+      0:{"P":null,"c":["","products",""],"q":"","i":false,"f":[[["",{"children":["products",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/09fl7cdb2_9.c.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0_ijson-k~qrg.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0wbzwy2rjw5me.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"className":"geistsans_d025f23b-module__btTCTG__variable geistmono_df95d851-module__CWPfka__variable min-h-dvh","children":[["$","$L2",null,{}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"legal-footer border-t border-border bg-background text-sm text-muted-foreground ","children":[["$","style",null,{"children":"$5"}],"$L6"]}]]}]}]]}],{"children":["$L7",{"children":["$L8",{},null,false,null]},null,false,"$@9"]},null,false,null],"$La",false]],"m":"$undefined","G":["$b",["$Lc"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"RW8hOhac6cJbdOJ9MrkIf"}
+e:I[38120,["/_next/static/chunks/0_ijson-k~qrg.js","/_next/static/chunks/0wbzwy2rjw5me.js"],"OutletBoundary"]
+f:"$Sreact.suspense"
+12:I[38120,["/_next/static/chunks/0_ijson-k~qrg.js","/_next/static/chunks/0wbzwy2rjw5me.js"],"ViewportBoundary"]
+14:I[38120,["/_next/static/chunks/0_ijson-k~qrg.js","/_next/static/chunks/0wbzwy2rjw5me.js"],"MetadataBoundary"]
+6:["$","div",null,{"className":"legal-footer__inner","children":[["$","div",null,{"children":[["$","p",null,{"className":"legal-footer__title","children":"Accentra"}],["$","p",null,{"className":"legal-footer__text","children":"Цифровые товары с онлайн-оплатой и выдачей доступа после покупки."}],["$","p",null,{"className":"legal-footer__meta","children":["© ",2026," ","Accentra"]}]]}],["$","nav",null,{"aria-label":"Юридические документы","children":[["$","p",null,{"className":"legal-footer__label","children":"Документы"}],["$","div",null,{"className":"legal-footer__links","children":[["$","a","/legal/offer/",{"href":"https://accentra.ru/legal/offer/","target":"$undefined","rel":"$undefined","className":"legal-footer__link","children":"Публичная оферта"}],["$","a","/legal/privacy/",{"href":"https://accentra.ru/legal/privacy/","target":"$undefined","rel":"$undefined","className":"legal-footer__link","children":"Политика персональных данных"}],["$","a","/legal/personal-data-consent/",{"href":"https://accentra.ru/legal/personal-data-consent/","target":"$undefined","rel":"$undefined","className":"legal-footer__link","children":"Согласие на обработку ПД"}]]}]]}],["$","div",null,{"children":[["$","p",null,{"className":"legal-footer__label","children":"Продавец"}],["$","p",null,{"className":"legal-footer__seller","children":"Физическое лицо, плательщик налога на профессиональный доход."}],["$","a",null,{"href":"https://accentra.ru/contacts/","target":"$undefined","rel":"$undefined","className":"legal-footer__requisites","children":"Открыть реквизиты"}]]}]]}]
+7:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+8:["$","$1","c",{"children":["$Ld",[["$","script","script-0",{"src":"/_next/static/chunks/0e-p68wrtsbo8.js","async":true,"nonce":"$undefined"}]],["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]]}]
+11:[]
+9:"$W11"
+a:["$","$1","h",{"children":[null,["$","$L12",null,{"children":"$L13"}],["$","div",null,{"hidden":true,"children":["$","$L14",null,{"children":["$","$f",null,{"name":"Next.Metadata","children":"$L15"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+c:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/09fl7cdb2_9.c.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+13:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+16:I[50756,["/_next/static/chunks/0_ijson-k~qrg.js","/_next/static/chunks/0wbzwy2rjw5me.js"],"IconMark"]
+10:null
+15:[["$","title","0",{"children":"Каталог продуктов — Accentra"}],["$","meta","1",{"name":"description","content":"Цифровые продукты Accentra для конкретных задач и проектов."}],["$","meta","2",{"name":"yandex-verification","content":"3810a843afc384e1"}],["$","link","3",{"rel":"shortcut icon","href":"/favicon.ico","type":"image/x-icon"}],["$","link","4",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"any"}],["$","link","5",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png","type":"image/png","sizes":"180x180"}],["$","$L16","6",{}]]
+17:I[20626,["/_next/static/chunks/0_ijson-k~qrg.js","/_next/static/chunks/0wbzwy2rjw5me.js","/_next/static/chunks/0e-p68wrtsbo8.js"],"Header"]
+18:I[23546,["/_next/static/chunks/0_ijson-k~qrg.js","/_next/static/chunks/0wbzwy2rjw5me.js","/_next/static/chunks/0e-p68wrtsbo8.js"],"ProductsCatalogFilters"]
+19:I[90844,["/_next/static/chunks/0_ijson-k~qrg.js","/_next/static/chunks/0wbzwy2rjw5me.js","/_next/static/chunks/0e-p68wrtsbo8.js"],"Image"]
+d:["$","div",null,{"className":"min-h-dvh bg-background","children":[["$","$L17",null,{}],["$","main",null,{"children":[["$","section",null,{"className":"border-b border-border bg-muted/40","children":["$","div",null,{"className":"mx-auto max-w-6xl px-4 py-16 sm:px-6 sm:py-20","children":[["$","p",null,{"className":"text-sm font-medium text-muted-foreground","children":"Каталог Accentra"}],["$","h1",null,{"className":"mt-3 max-w-3xl text-4xl font-semibold leading-tight tracking-normal text-foreground sm:text-5xl","children":"Выберите задачу, а не просто файл"}],["$","p",null,{"className":"mt-5 max-w-2xl text-lg leading-8 text-muted-foreground","children":"В каталоге собраны товары из разных проектов Accentra. Фильтруйте по направлению и открывайте карточку: внутри показаны смысл материала, формат, цена и условия покупки."}]]}]}],["$","section",null,{"className":"mx-auto max-w-6xl px-4 py-10 sm:px-6","children":["$","$L18",null,{"projects":[{"id":"wow","frontendId":"wow","name":"World of Warcraft","shortName":"WoW","description":"Практичные материалы для игроков World of Warcraft: заработок, фарм, внутриигровые процессы и понятные инструкции без недель хаотичного поиска.","productsPath":"/products/"},{"id":"investments","frontendId":"investments","name":"Investments","shortName":"Invest","description":"Курсы и гайды для спокойного входа в инвестиции: стратегия, дисциплина, базовая логика портфеля и защита от типичных ошибок новичка.","productsPath":"/products/"},{"id":"ai","frontendId":"ai","name":"AI","shortName":"AI","description":"Материалы по нейросетям, оплате зарубежных сервисов и вайб-кодингу: меньше противоречивых советов, больше понятной стартовой карты.","productsPath":"/products/"}]}]}],["$","section",null,{"className":"mx-auto max-w-6xl px-4 pb-14 sm:px-6","children":[["$","div",null,{"className":"grid gap-6 md:grid-cols-2 xl:grid-cols-3","data-products-grid":true,"children":[["$","a","22e9035f-3868-4ca6-849c-213f71f04df5",{"href":"/products/22e9035f-3868-4ca6-849c-213f71f04df5/","className":"group overflow-hidden rounded-lg border border-border bg-card text-card-foreground shadow-sm transition duration-300 hover:-translate-y-1 hover:border-primary/50","data-product-card":true,"data-project-id":"ai","children":[["$","div",null,{"className":"relative aspect-[16/10] overflow-hidden bg-muted","children":[["$","$L19",null,{"src":"/product-assets/22e9035f-3868-4ca6-849c-213f71f04df5/cover.png","alt":"🤖 Оплата ChatGPT, Claude и других нейросетей из России: понятный гайд без зарубежной карты и лишних ошибок","fill":true,"className":"object-cover transition duration-500 group-hover:scale-105","sizes":"(min-width: 1280px) 360px, (min-width: 768px) 50vw, 100vw"}],["$","div",null,{"className":"absolute inset-0 bg-gradient-to-t from-black/70 via-black/10 to-transparent"}],["$","div",null,{"className":"absolute bottom-4 left-4 rounded-md bg-background px-3 py-1 text-sm font-semibold text-foreground shadow-sm","children":"499 ₽"}]]}],["$","div",null,{"className":"p-5","children":[["$","p",null,{"className":"text-xs font-semibold uppercase tracking-normal text-muted-foreground","children":"AI"}],["$","h3",null,{"className":"mt-3 text-xl font-semibold leading-tight","children":"🤖 Оплата ChatGPT, Claude и других нейросетей из России: понятный гайд без зарубежной карты и лишних ошибок"}],["$","p",null,{"className":"mt-3 line-clamp-3 text-sm leading-6 text-muted-foreground","children":"Хотите пользоваться платными нейросетями, но оплата зарубежных сервисов из России превращается в квест? Карта не проходит, способов слишком много, а в интернете полно противоречивых советов и сомнительных посредников. Этот гайд поможет спокойно разобраться,..."}],["$","span",null,{"className":"mt-5 inline-flex text-sm font-semibold text-foreground transition group-hover:text-muted-foreground","children":"Смотреть продукт"}]]}]]}],"$L1a","$L1b","$L1c","$L1d"]}],"$L1e"]}]]}]]}]
+1a:["$","a","8c2f8cf0-f976-4fdf-9dd5-a84a4e0d2ac6",{"href":"/products/8c2f8cf0-f976-4fdf-9dd5-a84a4e0d2ac6/","className":"group overflow-hidden rounded-lg border border-border bg-card text-card-foreground shadow-sm transition duration-300 hover:-translate-y-1 hover:border-primary/50","data-product-card":true,"data-project-id":"wow","children":[["$","div",null,{"className":"relative aspect-[16/10] overflow-hidden bg-muted","children":[["$","$L19",null,{"src":"/product-assets/8c2f8cf0-f976-4fdf-9dd5-a84a4e0d2ac6/cover.png","alt":"🎮 Как зарабатывать в World of Warcraft: понятный курс для игроков, которые хотят превратить время в игре в деньги","fill":true,"className":"object-cover transition duration-500 group-hover:scale-105","sizes":"(min-width: 1280px) 360px, (min-width: 768px) 50vw, 100vw"}],["$","div",null,{"className":"absolute inset-0 bg-gradient-to-t from-black/70 via-black/10 to-transparent"}],["$","div",null,{"className":"absolute bottom-4 left-4 rounded-md bg-background px-3 py-1 text-sm font-semibold text-foreground shadow-sm","children":"1 999 ₽"}]]}],["$","div",null,{"className":"p-5","children":[["$","p",null,{"className":"text-xs font-semibold uppercase tracking-normal text-muted-foreground","children":"World of Warcraft"}],["$","h3",null,{"className":"mt-3 text-xl font-semibold leading-tight","children":"🎮 Как зарабатывать в World of Warcraft: понятный курс для игроков, которые хотят превратить время в игре в деньги"}],["$","p",null,{"className":"mt-3 line-clamp-3 text-sm leading-6 text-muted-foreground","children":"Вы и так проводите время в World of Warcraft — фармите, разбираетесь в механиках, следите за рынком, знаете, что ценится у игроков. Но задумывались ли вы, что этот опыт можно превратить в дополнительный доход? 💰 Этот курс — для тех, кто хочет понять, как у..."}],["$","span",null,{"className":"mt-5 inline-flex text-sm font-semibold text-foreground transition group-hover:text-muted-foreground","children":"Смотреть продукт"}]]}]]}]
+1b:["$","a","56df31fc-23c1-4991-8503-3be87ecf45fc",{"href":"/products/56df31fc-23c1-4991-8503-3be87ecf45fc/","className":"group overflow-hidden rounded-lg border border-border bg-card text-card-foreground shadow-sm transition duration-300 hover:-translate-y-1 hover:border-primary/50","data-product-card":true,"data-project-id":"ai","children":[["$","div",null,{"className":"relative aspect-[16/10] overflow-hidden bg-muted","children":[["$","$L19",null,{"src":"/product-assets/56df31fc-23c1-4991-8503-3be87ecf45fc/cover.png","alt":"💻 Вайб-кодинг с нуля: как создавать сайты, сервисы и приложения с помощью нейросетей — даже без опыта в программировании","fill":true,"className":"object-cover transition duration-500 group-hover:scale-105","sizes":"(min-width: 1280px) 360px, (min-width: 768px) 50vw, 100vw"}],["$","div",null,{"className":"absolute inset-0 bg-gradient-to-t from-black/70 via-black/10 to-transparent"}],["$","div",null,{"className":"absolute bottom-4 left-4 rounded-md bg-background px-3 py-1 text-sm font-semibold text-foreground shadow-sm","children":"2 999 ₽"}]]}],["$","div",null,{"className":"p-5","children":[["$","p",null,{"className":"text-xs font-semibold uppercase tracking-normal text-muted-foreground","children":"AI"}],["$","h3",null,{"className":"mt-3 text-xl font-semibold leading-tight","children":"💻 Вайб-кодинг с нуля: как создавать сайты, сервисы и приложения с помощью нейросетей — даже без опыта в программировании"}],["$","p",null,{"className":"mt-3 line-clamp-3 text-sm leading-6 text-muted-foreground","children":"Хотите начать создавать сайты, приложения и полезные сервисы, но программирование кажется слишком сложным, долгим и «не для вас»? Этот курс — понятный старт в вайб-кодинге: подходе, при котором вы не годами изучаете синтаксис, а учитесь ставить задачи нейро..."}],["$","span",null,{"className":"mt-5 inline-flex text-sm font-semibold text-foreground transition group-hover:text-muted-foreground","children":"Смотреть продукт"}]]}]]}]
+1c:["$","a","39269abf-c96f-457e-8a95-6e6b20b0af40",{"href":"/products/39269abf-c96f-457e-8a95-6e6b20b0af40/","className":"group overflow-hidden rounded-lg border border-border bg-card text-card-foreground shadow-sm transition duration-300 hover:-translate-y-1 hover:border-primary/50","data-product-card":true,"data-project-id":"investments","children":[["$","div",null,{"className":"relative aspect-[16/10] overflow-hidden bg-muted","children":[["$","$L19",null,{"src":"/product-assets/39269abf-c96f-457e-8a95-6e6b20b0af40/cover.png","alt":"💰 Инвестиции на Московской бирже по понятной стратегии: как создать портфель без хаоса и лишних решений","fill":true,"className":"object-cover transition duration-500 group-hover:scale-105","sizes":"(min-width: 1280px) 360px, (min-width: 768px) 50vw, 100vw"}],["$","div",null,{"className":"absolute inset-0 bg-gradient-to-t from-black/70 via-black/10 to-transparent"}],["$","div",null,{"className":"absolute bottom-4 left-4 rounded-md bg-background px-3 py-1 text-sm font-semibold text-foreground shadow-sm","children":"4 999 ₽"}]]}],["$","div",null,{"className":"p-5","children":[["$","p",null,{"className":"text-xs font-semibold uppercase tracking-normal text-muted-foreground","children":"Investments"}],["$","h3",null,{"className":"mt-3 text-xl font-semibold leading-tight","children":"💰 Инвестиции на Московской бирже по понятной стратегии: как создать портфель без хаоса и лишних решений"}],["$","p",null,{"className":"mt-3 line-clamp-3 text-sm leading-6 text-muted-foreground","children":"Хотите начать инвестировать, но не понимаете, с чего именно идти на рынок? Какие активы выбирать? Как не купить «на эмоциях»? Что делать, если рынок падает? И можно ли инвестировать без ежедневного чтения новостей и попыток угадать курс? Этот курс — для тех..."}],["$","span",null,{"className":"mt-5 inline-flex text-sm font-semibold text-foreground transition group-hover:text-muted-foreground","children":"Смотреть продукт"}]]}]]}]
+1d:["$","a","ee7bdcdb-d550-4432-8865-7f6fb3a1a3c7",{"href":"/products/ee7bdcdb-d550-4432-8865-7f6fb3a1a3c7/","className":"group overflow-hidden rounded-lg border border-border bg-card text-card-foreground shadow-sm transition duration-300 hover:-translate-y-1 hover:border-primary/50","data-product-card":true,"data-project-id":"wow","children":[["$","div",null,{"className":"relative aspect-[16/10] overflow-hidden bg-muted","children":[["$","$L19",null,{"src":"/product-assets/ee7bdcdb-d550-4432-8865-7f6fb3a1a3c7/cover.png","alt":"💰 Пассивный фарм золота в WoW — настрой профессию и зарабатывай, пока занимаешься св","fill":true,"className":"object-cover transition duration-500 group-hover:scale-105","sizes":"(min-width: 1280px) 360px, (min-width: 768px) 50vw, 100vw"}],["$","div",null,{"className":"absolute inset-0 bg-gradient-to-t from-black/70 via-black/10 to-transparent"}],["$","div",null,{"className":"absolute bottom-4 left-4 rounded-md bg-background px-3 py-1 text-sm font-semibold text-foreground shadow-sm","children":"100 ₽"}]]}],["$","div",null,{"className":"p-5","children":[["$","p",null,{"className":"text-xs font-semibold uppercase tracking-normal text-muted-foreground","children":"World of Warcraft"}],["$","h3",null,{"className":"mt-3 text-xl font-semibold leading-tight","children":"💰 Пассивный фарм золота в WoW — настрой профессию и зарабатывай, пока занимаешься св"}],["$","p",null,{"className":"mt-3 line-clamp-3 text-sm leading-6 text-muted-foreground","children":"💰 Хочешь получать золото в World of Warcraft без бесконечного ручного фарма? Этот гайд покажет, как выстроить понятную схему заработка через профессию, чтобы она приносила игровую валюту с минимальным постоянным участием. Что будет внутри: ⚙️ Пошаговая нас..."}],["$","span",null,{"className":"mt-5 inline-flex text-sm font-semibold text-foreground transition group-hover:text-muted-foreground","children":"Смотреть продукт"}]]}]]}]
+1e:["$","div",null,{"className":"hidden py-12 text-center text-muted-foreground","data-products-empty":true,"children":"По выбранным условиям продуктов нет."}]

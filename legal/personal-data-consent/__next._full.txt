@@ -1,0 +1,115 @@
+1:"$Sreact.fragment"
+2:I[10536,["/_next/static/chunks/0_ijson-k~qrg.js","/_next/static/chunks/0wbzwy2rjw5me.js"],"YandexMetrika"]
+3:I[98425,["/_next/static/chunks/0_ijson-k~qrg.js","/_next/static/chunks/0wbzwy2rjw5me.js"],"default"]
+4:I[84635,["/_next/static/chunks/0_ijson-k~qrg.js","/_next/static/chunks/0wbzwy2rjw5me.js"],"default"]
+c:I[57531,["/_next/static/chunks/0_ijson-k~qrg.js","/_next/static/chunks/0wbzwy2rjw5me.js"],"default",1]
+:HL["/_next/static/chunks/09fl7cdb2_9.c.css","style"]
+:HL["/_next/static/media/GeistMonoVF-s.p.0ifhplp~93ddj.woff","font",{"crossOrigin":"","type":"font/woff"}]
+:HL["/_next/static/media/GeistVF-s.p.04dvp7dj03si8.woff","font",{"crossOrigin":"","type":"font/woff"}]
+5:T820,
+        .legal-footer {
+          padding: 2.75rem 1rem;
+        }
+
+        .legal-footer__inner {
+          display: grid;
+          gap: 2rem;
+          max-width: 72rem;
+          margin: 0 auto;
+        }
+
+        .legal-footer__title {
+          color: var(--foreground);
+          font-size: 1rem;
+          font-weight: 650;
+          line-height: 1.5;
+        }
+
+        .legal-footer__text {
+          max-width: 28rem;
+          margin-top: 0.75rem;
+          line-height: 1.65;
+        }
+
+        .legal-footer__meta {
+          margin-top: 1.25rem;
+          font-size: 0.75rem;
+          line-height: 1.5;
+        }
+
+        .legal-footer__label {
+          color: var(--foreground);
+          font-size: 0.75rem;
+          font-weight: 700;
+          letter-spacing: 0.08em;
+          line-height: 1.4;
+          text-transform: uppercase;
+        }
+
+        .legal-footer__links {
+          display: flex;
+          flex-direction: column;
+          align-items: flex-start;
+          gap: 0.7rem;
+          margin-top: 1rem;
+        }
+
+        .legal-footer__link {
+          color: inherit;
+          line-height: 1.45;
+          text-decoration: none;
+          transition: color 160ms ease;
+        }
+
+        .legal-footer__link:hover {
+          color: var(--foreground);
+        }
+
+        .legal-footer__seller {
+          margin-top: 1rem;
+          line-height: 1.65;
+        }
+
+        .legal-footer__requisites {
+          display: inline-flex;
+          margin-top: 0.8rem;
+          color: var(--foreground);
+          font-weight: 600;
+          text-decoration: underline;
+          text-underline-offset: 4px;
+          transition: color 160ms ease;
+        }
+
+        .legal-footer__requisites:hover {
+          color: var(--muted-foreground);
+        }
+
+        @media (min-width: 768px) {
+          .legal-footer {
+            padding: 3.25rem 1.5rem;
+          }
+
+          .legal-footer__inner {
+            grid-template-columns: minmax(0, 1.35fr) minmax(0, 0.9fr) minmax(0, 1fr);
+            align-items: start;
+          }
+        }
+      0:{"P":null,"c":["","legal","personal-data-consent",""],"q":"","i":false,"f":[[["",{"children":["legal",{"children":["personal-data-consent",{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/09fl7cdb2_9.c.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0_ijson-k~qrg.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0wbzwy2rjw5me.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"className":"geistsans_d025f23b-module__btTCTG__variable geistmono_df95d851-module__CWPfka__variable min-h-dvh","children":[["$","$L2",null,{}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"legal-footer border-t border-border bg-background text-sm text-muted-foreground ","children":[["$","style",null,{"children":"$5"}],"$L6"]}]]}]}]]}],{"children":["$L7",{"children":["$L8",{"children":["$L9",{},null,false,null]},null,false,"$@a"]},null,false,"$@a"]},null,false,null],"$Lb",false]],"m":"$undefined","G":["$c",["$Ld"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"RW8hOhac6cJbdOJ9MrkIf"}
+e:I[20626,["/_next/static/chunks/0_ijson-k~qrg.js","/_next/static/chunks/0wbzwy2rjw5me.js","/_next/static/chunks/0.ukcha5vnf-5.js"],"Header"]
+f:I[50303,["/_next/static/chunks/0_ijson-k~qrg.js","/_next/static/chunks/0wbzwy2rjw5me.js","/_next/static/chunks/0.ukcha5vnf-5.js"],"ProtectedSellerDetails"]
+10:I[38120,["/_next/static/chunks/0_ijson-k~qrg.js","/_next/static/chunks/0wbzwy2rjw5me.js"],"OutletBoundary"]
+11:"$Sreact.suspense"
+14:I[38120,["/_next/static/chunks/0_ijson-k~qrg.js","/_next/static/chunks/0wbzwy2rjw5me.js"],"ViewportBoundary"]
+16:I[38120,["/_next/static/chunks/0_ijson-k~qrg.js","/_next/static/chunks/0wbzwy2rjw5me.js"],"MetadataBoundary"]
+6:["$","div",null,{"className":"legal-footer__inner","children":[["$","div",null,{"children":[["$","p",null,{"className":"legal-footer__title","children":"Accentra"}],["$","p",null,{"className":"legal-footer__text","children":"Цифровые товары с онлайн-оплатой и выдачей доступа после покупки."}],["$","p",null,{"className":"legal-footer__meta","children":["© ",2026," ","Accentra"]}]]}],["$","nav",null,{"aria-label":"Юридические документы","children":[["$","p",null,{"className":"legal-footer__label","children":"Документы"}],["$","div",null,{"className":"legal-footer__links","children":[["$","a","/legal/offer/",{"href":"https://accentra.ru/legal/offer/","target":"$undefined","rel":"$undefined","className":"legal-footer__link","children":"Публичная оферта"}],["$","a","/legal/privacy/",{"href":"https://accentra.ru/legal/privacy/","target":"$undefined","rel":"$undefined","className":"legal-footer__link","children":"Политика персональных данных"}],["$","a","/legal/personal-data-consent/",{"href":"https://accentra.ru/legal/personal-data-consent/","target":"$undefined","rel":"$undefined","className":"legal-footer__link","children":"Согласие на обработку ПД"}]]}]]}],["$","div",null,{"children":[["$","p",null,{"className":"legal-footer__label","children":"Продавец"}],["$","p",null,{"className":"legal-footer__seller","children":"Физическое лицо, плательщик налога на профессиональный доход."}],["$","a",null,{"href":"https://accentra.ru/contacts/","target":"$undefined","rel":"$undefined","className":"legal-footer__requisites","children":"Открыть реквизиты"}]]}]]}]
+7:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+8:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+9:["$","$1","c",{"children":[["$","div",null,{"className":"min-h-dvh bg-background","children":[["$","$Le",null,{}],["$","main",null,{"className":"mx-auto max-w-4xl px-4 py-12 sm:px-6 sm:py-16","children":[["$","header",null,{"className":"border-b border-border pb-8","children":[["$","p",null,{"className":"text-sm font-medium text-muted-foreground","children":"Юридическая информация"}],["$","h1",null,{"className":"mt-3 text-3xl font-semibold tracking-normal text-foreground sm:text-4xl","children":"Согласие на обработку персональных данных"}],["$","p",null,{"className":"mt-4 max-w-3xl text-base leading-7 text-muted-foreground","children":"Текст согласия для форм, обращений и иных случаев, где требуется отдельное согласие."}]]}],["$","article",null,{"className":"legal-document mt-8 space-y-8 text-base leading-7 text-muted-foreground","children":[["$","section",null,{"children":[["$","h2",null,{"children":"1. Кому дается согласие"}],["$","p",null,{"children":["Пользователь дает согласие оператору персональных данных:"," ","физическое лицо, плательщик налога на профессиональный доход",". Сайт: ","https://accentra.ru",". Конкретные реквизиты оператора доступны по кнопке ниже. Контакт оператора: ","ngafta@yandex.ru","."]}],["$","$Lf",null,{}]]}],["$","section",null,{"children":[["$","h2",null,{"children":"2. Какие данные могут обрабатываться"}],["$","p",null,{"children":"Согласие распространяется на данные, которые пользователь самостоятельно передает через формы сайта, переписку или связанные сервисы: имя, email, телефон, текст сообщения, сведения о заказе, а также технические данные, необходимые для фиксации согласия и защиты сайта: IP-адрес, дата и время действия, сведения о браузере, устройстве и источнике перехода."}]]}],["$","section",null,{"children":[["$","h2",null,{"children":"3. Цели обработки"}],["$","p",null,{"children":"Данные обрабатываются для ответа на обращение, обработки заявки, предоставления поддержки, направления сервисных сообщений, фиксации согласия, защиты сайта и подтверждения законности обработки."}]]}],["$","section",null,{"children":[["$","h2",null,{"children":"4. Действия с данными"}],["$","p",null,{"children":"Пользователь соглашается на сбор, запись, систематизацию, накопление, хранение, уточнение, использование, передачу техническим и платежным сервисам в объеме, необходимом для соответствующей цели, обезличивание, блокирование, удаление и уничтожение персональных данных."}]]}],["$","section",null,{"children":[["$","h2",null,{"children":"5. Срок действия и отзыв"}],["$","p",null,{"children":["Согласие действует до достижения целей обработки, истечения сроков хранения или его отзыва в порядке, предусмотренном законом. Отзыв можно направить на ","ngafta@yandex.ru",". Отзыв согласия не влияет на законность обработки, выполненной до получения отзыва, и не прекращает обработку, необходимую для договора, учета, защиты прав оператора или исполнения требований закона."]}]]}],["$","section",null,{"children":[["$","h2",null,{"children":"6. Связь с заказом и платежом"}],["$","p",null,{"children":"Для оформления, оплаты и выдачи цифрового товара часть данных обрабатывается в связи с заключением и исполнением договора, а также для подтверждения оплаты, выдачи доступа и защиты прав оператора."}],["$","p",null,{"children":"При оплате через DigiSeller/oplata.info или подключенных платежных провайдеров данные, необходимые для платежа, обрабатываются соответствующими сервисами по их правилам. Оператор получает только данные, необходимые для исполнения заказа и подтверждения оплаты."}],["$","p",null,{"children":["Редакция от ","13 мая 2026 года","."]}]]}]]}]]}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0.ukcha5vnf-5.js","async":true,"nonce":"$undefined"}]],["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]]}]
+13:[]
+a:"$W13"
+b:["$","$1","h",{"children":[null,["$","$L14",null,{"children":"$L15"}],["$","div",null,{"hidden":true,"children":["$","$L16",null,{"children":["$","$11",null,{"name":"Next.Metadata","children":"$L17"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/09fl7cdb2_9.c.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+15:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+18:I[50756,["/_next/static/chunks/0_ijson-k~qrg.js","/_next/static/chunks/0wbzwy2rjw5me.js"],"IconMark"]
+12:null
+17:[["$","title","0",{"children":"Согласие на обработку персональных данных — Accentra"}],["$","meta","1",{"name":"description","content":"Согласие на обработку персональных данных на сайте Accentra."}],["$","meta","2",{"name":"yandex-verification","content":"3810a843afc384e1"}],["$","link","3",{"rel":"shortcut icon","href":"/favicon.ico","type":"image/x-icon"}],["$","link","4",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"any"}],["$","link","5",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png","type":"image/png","sizes":"180x180"}],["$","$L18","6",{}]]

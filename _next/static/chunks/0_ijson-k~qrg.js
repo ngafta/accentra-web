@@ -1,0 +1,8 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,79628,(e,t,r)=>{"use strict";Object.defineProperty(r,"__esModule",{value:!0}),Object.defineProperty(r,"warnOnce",{enumerable:!0,get:function(){return n}});let n=e=>{}},10536,e=>{"use strict";var t=e.i(60267),r=e.i(50923);let n="buy_click";e.s(["YANDEX_METRIKA_BUY_CLICK_GOAL",0,n,"YANDEX_METRIKA_ID",0,0x682afd0,"YandexMetrika",0,function(){return(0,r.useEffect)(()=>{let e="yandex-metrika";if(document.getElementById(e))return;let t=`(function(m,e,t,r,i,k,a){
+        m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+        m[i].l=1*new Date();
+        for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+        k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)
+    })(window, document,'script','https://mc.yandex.ru/metrika/tag.js?id=109227984', 'ym');
+
+    ym(109227984, 'init', {ssr:true, webvisor:true, clickmap:true, ecommerce:"dataLayer", referrer: document.referrer, url: location.href, accurateTrackBounce:true, trackLinks:true});`,r=document.createElement("script");r.id=e,r.textContent=t,document.head.appendChild(r)},[]),(0,t.jsx)("noscript",{children:(0,t.jsx)("div",{children:(0,t.jsx)("img",{src:"https://mc.yandex.ru/watch/109227984",style:{position:"absolute",left:"-9999px"},alt:""})})})},"trackBuyClick",0,function(e,t,r){if(!window.ym)return void r?.();let c=!1,i=()=>{c||(c=!0,r?.())};window.ym(0x682afd0,"reachGoal",n,{product:e,product_name:t},i),window.setTimeout(i,500)}])}]);
